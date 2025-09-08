@@ -27,4 +27,4 @@ mvn spring-boot:run
 - Replace package `com.example.sms` if desired.
 
 ## Author
-Your Name
+Enugula Manasa
