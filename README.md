@@ -1,6 +1,6 @@
 # 🎓 Student Management System
 
-**Tech Stack:** Core Java • Spring Boot • H2 (in-memory) • Maven • RESTful APIs  
+**Tech Stack:** Core Java • Spring Boot • H2 (in-memory) • Maven • RESTful APIs • Sorting • crud
 
 ---
 
