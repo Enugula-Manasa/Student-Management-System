@@ -18,7 +18,8 @@ This project highlights your skills in:
 
 ## ✨ Features
 - 🧑‍🎓 **Manage Students** → Add, update, delete, and view student records  
-- 📚 **Manage Courses** → Add, update, delete, and view courses (if applicable)  
+- 📚 **Manage Courses** → Add, update, delete, and view courses (if applicable)
+- 🔄 Sort students by name or ID using Java Comparator 
 - 🔗 RESTful API endpoints for easy integration  
 - ⚡ Lightweight H2 database for quick setup and testing  
 
