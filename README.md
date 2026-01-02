@@ -68,7 +68,7 @@ This project highlights your skills in:
 
 🛠️ For production, update application.properties.
 
-📦 Package name: com.example.lms
+📦 Package name: com.example.sms
 ## 👩‍💻 Author
 Enugula Manasa
 
